@@ -1,0 +1,4 @@
+# py-assignment
+A* Star algorithm implementat
+
+REMOVE F.COST AS A CLASS ATTRIBUTE, JUST USE IT AS A METHOD AND CALL IT WHENEVER NEEDED
